@@ -1,0 +1,10 @@
+{
+    "send": true,
+    "webhook_url": "https://discord.com/api/webhooks/708172077940604938/0KJi3kAmI31yNx6FpnJF7-qRh2WS507itqDGc9p-09ObF6XctDeKMwh1V51uWT6ZomEN",
+    "bot_name": "F.A.Q",
+    "bot_profil_picture": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/apple/237/black-question-mark-ornament_2753.png",
+    "embed_color": "#e10203",
+    "message": "",
+    "embed_titre": "Comment faire sa pub sur le serveur?",
+    "embed_message": "Si tu veux faire ta pub sur le serveur tu dois impérativement être **niveau 1**.\nDiscute avec les autres membres **SANS SPAM** sinon <:TableBan:775698275336192022>.\n\nUne fois que tu auras atteint ce niveau tu pourras:\n🔸 aller dans <#739521411617652736> et poster ton lien avec une description quand tu pars en live;\n🔸 aller dans <#312971309162299402> et poster tes vidéos;\n🔸 aller dans <#314100972693618689> et nous partager les meilleurs clips de ta chaîne Twitch :v: ;"
+}
