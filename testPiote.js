@@ -27,7 +27,7 @@ const messagePath = path.join(basePath, 'messages');
                     await page.$eval(`#${key}`, (input, value) => input.value = value, val);
                 }));
                 if (obj.send === true) {
-                    await page.click('send');
+                    await page.click('#send');
                 }
             }
         }
